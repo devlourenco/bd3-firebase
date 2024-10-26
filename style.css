@@ -1,10 +1,12 @@
+style.css
+
 body{
-    background: #999;
+    background: #3d009e91;
     font-family: ubuntu;
 }
 
 h1{
-    color: #fff;
+    color: #22025c;
     font-size: 64px;
     letter-spacing: 2px;
     margin-top: 80px;
